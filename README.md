@@ -37,7 +37,7 @@ To run your code: <br>
 Example: <br>
 `./master-worker 100 10 4 3`
 
-If your code is written correctly, every integer from 0 toM −1 will be produced exactly once by the
+If your code is written correctly, every integer from 0 to M −1 will be produced exactly once by the
 master producer thread, and consumed exactly once by the worker consumer threads. And all master threads and worker threads should join as below <br>
 <img width="223" alt="image" src="https://github.com/user-attachments/assets/55f7c557-1f8f-4c4a-b76e-938c00c67324" />
 
