@@ -61,6 +61,8 @@ exercise caution.
 
 If you pass all tess cases, the output should look like below <br>
 <img width="486" alt="image" src="https://github.com/user-attachments/assets/30470731-9e78-424c-927e-6346eaa7d2eb" />
+Test case with 1 and 3 million items produced <br>
+<img width="478" alt="image" src="https://github.com/user-attachments/assets/97036f97-4f6a-4c23-ab1d-55142d7a02c5" />
 
 Source https://www.cse.iitb.ac.in/~mythili/os/
 
